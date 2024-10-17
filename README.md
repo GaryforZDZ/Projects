@@ -1,5 +1,5 @@
 # Analyzing the Impact of Crime Rate on Chicago Airbnb Listing
-**Group A4**
+**Group Contributers:**
 - Dizhao Zhang (Project Manager)
 - Ching Hsuan Lin
 - Ruo-Rong Wang
